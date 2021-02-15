@@ -1,1 +1,1 @@
-{'ver1':'30', 'ver2':'00', 'ver3':'\n  تحديث جديد لجميع نسخ واتساب عمر العنابي , الوردي , الأزرق , الأخضر , الإصدار رقم v30\n' , 'dli':'https://www.20app20.com/apps/ob2whatsapp-apk/ob2whatsapp-apk'}
+{'ver1':'30', 'ver2':'00', 'ver3':'\n  تحديث جديد لجميع نسخ واتساب عمر العنابي , الوردي , الأزرق , الأخضر , الإصدار رقم v30\n' , 'dli':'https://www.20app20.com/android/whatsappomar-yemen-ob3whatsapp'}
